@@ -1,0 +1,153 @@
+{
+  "description": "Manually labelled evaluation profiles for CareerAI. Each profile lists careers from the merged catalogue (ESCO v1.2.1 + CareerAI curated) that a careers adviser would reasonably suggest for that input. Labels were assigned by keyword-searching catalogue titles and reviewing the candidates BEFORE the current ranking algorithm was run on them. This is a small, hand-made test set for regression checking; it is not a statistically representative benchmark, the labels are one person's judgement, and relevant careers missing from a list are counted as irrelevant.",
+  "k": 5,
+  "profiles": [
+    {
+      "profile": "Photography",
+      "skills": ["photography"],
+      "interests": [],
+      "relevant_careers": [
+        "Photographer", "Photojournalist", "Camera operator",
+        "Director of photography", "Photography teacher", "Photographic developer"
+      ]
+    },
+    {
+      "profile": "Sanskrit and languages",
+      "skills": ["sanskrit"],
+      "interests": [],
+      "relevant_careers": [
+        "Sanskrit Teacher", "Translator", "Linguistics Researcher",
+        "Cultural Heritage Specialist", "Classical languages teacher secondary school",
+        "Classical languages lecturer", "Linguist", "Linguistics lecturer",
+        "Lexicographer", "Interpreter"
+      ]
+    },
+    {
+      "profile": "Software development",
+      "skills": ["python", "programming"],
+      "interests": ["technology"],
+      "relevant_careers": [
+        "Software Developer", "Backend Developer", "Frontend Developer",
+        "ICT application developer", "Web developer", "Mobile application developer",
+        "Cloud software developer", "Embedded systems software developer",
+        "Software architect", "Software analyst", "Software tester",
+        "Database developer", "Digital games developer", "ICT system developer",
+        "User interface developer", "Blockchain developer", "IoT developer",
+        "AI/ML Engineer", "Machine Learning Engineer"
+      ]
+    },
+    {
+      "profile": "Data analytics",
+      "skills": ["sql", "data analysis"],
+      "interests": ["analytics", "business"],
+      "relevant_careers": [
+        "Data Analyst", "Business Analyst", "Business Intelligence Analyst",
+        "Business intelligence manager", "Data Scientist", "ICT business analyst",
+        "Research Data Analyst", "Statistician", "Data engineer",
+        "Data warehouse designer", "Market Research Analyst", "Data quality specialist"
+      ]
+    },
+    {
+      "profile": "Machine learning",
+      "skills": ["machine learning", "python"],
+      "interests": ["artificial intelligence", "research"],
+      "relevant_careers": [
+        "AI/ML Engineer", "Machine Learning Engineer", "Data Scientist",
+        "Research Assistant", "Machine Learning Research Scientist", "AI Researcher",
+        "Artificial intelligence engineer", "Computational Scientist",
+        "Climate Data Scientist", "Predictive Analytics Scientist",
+        "Research engineer", "ICT research consultant"
+      ]
+    },
+    {
+      "profile": "Data science",
+      "skills": ["python", "statistics", "predictive modelling"],
+      "interests": ["machine learning", "data science"],
+      "relevant_careers": [
+        "Data Scientist", "Statistician", "Predictive Analytics Scientist",
+        "Machine Learning Engineer", "AI/ML Engineer", "Research Data Analyst",
+        "Climate Data Scientist", "Forecasting Analyst", "Quantitative Researcher",
+        "Data Analyst", "Machine Learning Research Scientist", "Econometrician",
+        "Computational Scientist", "Artificial intelligence engineer"
+      ]
+    },
+    {
+      "profile": "Cybersecurity",
+      "skills": ["cybersecurity", "networking"],
+      "interests": ["security", "technology"],
+      "relevant_careers": [
+        "Cybersecurity Analyst", "Chief ICT security officer", "Cybersecurity risk manager",
+        "Digital forensics expert", "Embedded systems security engineer",
+        "ICT security administrator", "ICT security technician", "Ethical hacker",
+        "ICT network engineer", "ICT network administrator"
+      ]
+    },
+    {
+      "profile": "Cloud computing",
+      "skills": ["cloud computing", "programming"],
+      "interests": ["technology", "infrastructure"],
+      "relevant_careers": [
+        "Cloud Engineer", "Cloud architect", "Cloud DevOps engineer",
+        "Cloud software developer", "ICT system administrator", "ICT network architect",
+        "ICT network engineer", "ICT system architect", "Cloud identity manager"
+      ]
+    },
+    {
+      "profile": "Gardening and plants",
+      "skills": ["gardening", "plants"],
+      "interests": ["nature", "environment"],
+      "relevant_careers": [
+        "Horticulturist", "Environmental Scientist", "Landscape gardener",
+        "Garden labourer", "Horticulture worker", "Horticulture production manager",
+        "Horticulture production team leader", "Arboriculturist", "Botanist",
+        "Botanical technician", "Curator of horticulture", "Interior landscaper",
+        "Landscape designer", "Ecologist", "Tree surgeon", "Crop production worker"
+      ]
+    },
+    {
+      "profile": "Writing and communication",
+      "skills": ["writing", "editing"],
+      "interests": ["communication", "literature"],
+      "relevant_careers": [
+        "Technical Writer", "Content Writer", "Journalist", "Writer", "Copy editor",
+        "Book editor", "Magazine editor", "Newspaper editor", "Editorial assistant",
+        "Advertising copywriter", "Technical communicator", "Medical writer",
+        "Script writer", "Speechwriter", "Editor-in-chief", "Blogger",
+        "Literary scholar"
+      ]
+    },
+    {
+      "profile": "Business and finance",
+      "skills": ["finance", "business", "analysis"],
+      "interests": ["accounting", "decision making"],
+      "relevant_careers": [
+        "Financial Analyst", "Business Analyst", "Accountant", "Accounting analyst",
+        "Budget analyst", "Investment analyst", "Financial manager",
+        "Financial controller", "Credit analyst", "Financial planner", "Economist",
+        "Risk Analyst", "Actuarial Analyst", "Financial risk manager",
+        "Credit risk analyst", "Financial auditor", "Business economics researcher",
+        "Corporate risk manager"
+      ]
+    },
+    {
+      "profile": "Nursing and healthcare",
+      "skills": ["nursing", "patient care"],
+      "interests": ["healthcare"],
+      "relevant_careers": [
+        "Nurse responsible for general care", "Specialist nurse",
+        "Advanced nurse practitioner", "Nurse assistant", "Healthcare assistant",
+        "Midwife", "Nursing lecturer"
+      ]
+    },
+    {
+      "profile": "Cooking",
+      "skills": ["cooking", "food preparation"],
+      "interests": ["food"],
+      "relevant_careers": [
+        "Chef", "Cook", "Head chef", "Pastry chef", "Head pastry chef", "Private chef",
+        "Diet cook", "Fish cook", "Grill cook", "Industrial cook", "Kitchen assistant",
+        "Baker", "Street food vendor", "Food service worker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Runtime dependencies for CareerAI (verified with Python 3.11).
+streamlit==1.54.0
+scikit-learn==1.9.0
+pandas==2.3.3

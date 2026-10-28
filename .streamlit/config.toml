@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#F7F9FC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F1E3D"
+
+[client]
+# Never show Python stack traces to users; details go to the server log.
+showErrorDetails = "none"
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

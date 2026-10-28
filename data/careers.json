@@ -1,0 +1,1179 @@
+[
+  {
+    "title": "Software Developer",
+    "description": "Build and maintain software applications, services, and tools.",
+    "skills": [
+      "python",
+      "java",
+      "programming",
+      "problem solving",
+      "data structures",
+      "algorithms",
+      "git"
+    ],
+    "interests": [
+      "technology",
+      "coding",
+      "software",
+      "building applications"
+    ],
+    "learning": [
+      "Data Structures and Algorithms",
+      "Git",
+      "Software Design"
+    ]
+  },
+  {
+    "title": "AI/ML Engineer",
+    "description": "Build intelligent systems using data, machine learning, and statistical methods.",
+    "skills": [
+      "python",
+      "machine learning",
+      "statistics",
+      "mathematics",
+      "data analysis",
+      "programming"
+    ],
+    "interests": [
+      "artificial intelligence",
+      "research",
+      "technology",
+      "automation"
+    ],
+    "learning": [
+      "Python for ML",
+      "Machine Learning",
+      "Model Evaluation"
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Analyze datasets and communicate useful insights for decision-making.",
+    "skills": [
+      "sql",
+      "python",
+      "excel",
+      "statistics",
+      "data visualization",
+      "communication"
+    ],
+    "interests": [
+      "analytics",
+      "business",
+      "data",
+      "problem solving"
+    ],
+    "learning": [
+      "SQL",
+      "Exploratory Data Analysis",
+      "Power BI"
+    ]
+  },
+  {
+    "title": "Technical Writer",
+    "description": "Create clear technical documentation, user guides, and product instructions.",
+    "skills": [
+      "writing",
+      "communication",
+      "documentation",
+      "research",
+      "editing"
+    ],
+    "interests": [
+      "content",
+      "technology",
+      "publishing",
+      "explaining concepts"
+    ],
+    "learning": [
+      "Technical Documentation",
+      "Markdown",
+      "API Documentation"
+    ]
+  },
+  {
+    "title": "Business Analyst",
+    "description": "Translate business needs into actionable requirements and process improvements.",
+    "skills": [
+      "sql",
+      "communication",
+      "analysis",
+      "problem solving",
+      "excel",
+      "documentation"
+    ],
+    "interests": [
+      "business",
+      "strategy",
+      "technology",
+      "decision making"
+    ],
+    "learning": [
+      "Requirements Analysis",
+      "Excel",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Research Assistant",
+    "description": "Support research through investigation, literature reviews, experiments, and data analysis.",
+    "skills": [
+      "research",
+      "analysis",
+      "statistics",
+      "writing",
+      "python",
+      "critical thinking"
+    ],
+    "interests": [
+      "academia",
+      "science",
+      "discovery",
+      "learning"
+    ],
+    "learning": [
+      "Research Methods",
+      "Data Analysis",
+      "Scientific Writing"
+    ]
+  },
+  {
+    "title": "Sanskrit Teacher",
+    "description": "Teach Sanskrit language, grammar, literature, and classical texts.",
+    "skills": [
+      "sanskrit",
+      "teaching",
+      "communication",
+      "grammar",
+      "literature",
+      "lesson planning"
+    ],
+    "interests": [
+      "teaching",
+      "education",
+      "sanskrit",
+      "literature",
+      "languages"
+    ],
+    "learning": [
+      "Sanskrit Grammar",
+      "Teaching Methods",
+      "Sanskrit Literature"
+    ]
+  },
+  {
+    "title": "Translator",
+    "description": "Translate written material between languages while preserving meaning and context.",
+    "skills": [
+      "translation",
+      "writing",
+      "communication",
+      "languages",
+      "research",
+      "editing"
+    ],
+    "interests": [
+      "languages",
+      "literature",
+      "translation",
+      "culture"
+    ],
+    "learning": [
+      "Translation Techniques",
+      "Comparative Linguistics",
+      "Advanced Writing"
+    ]
+  },
+  {
+    "title": "Linguistics Researcher",
+    "description": "Study language structure, grammar, history, and linguistic patterns.",
+    "skills": [
+      "sanskrit",
+      "linguistics",
+      "research",
+      "analysis",
+      "literature",
+      "phonetics"
+    ],
+    "interests": [
+      "research",
+      "languages",
+      "academia",
+      "literature"
+    ],
+    "learning": [
+      "Introduction to Linguistics",
+      "Research Methods",
+      "Historical Linguistics"
+    ]
+  },
+  {
+    "title": "Cultural Heritage Specialist",
+    "description": "Research and help preserve historical texts, traditions, artifacts, and cultural heritage.",
+    "skills": [
+      "sanskrit",
+      "research",
+      "history",
+      "writing",
+      "documentation",
+      "archival research"
+    ],
+    "interests": [
+      "culture",
+      "history",
+      "research",
+      "heritage",
+      "literature"
+    ],
+    "learning": [
+      "Cultural Heritage Studies",
+      "Archival Research",
+      "Historical Research"
+    ]
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "description": "Monitor systems, investigate security incidents, and help protect information.",
+    "skills": [
+      "networking",
+      "linux",
+      "security",
+      "problem solving",
+      "scripting",
+      "risk analysis"
+    ],
+    "interests": [
+      "cybersecurity",
+      "technology",
+      "investigation",
+      "privacy"
+    ],
+    "learning": [
+      "Networking Fundamentals",
+      "Linux",
+      "Security Monitoring"
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Deploy and maintain applications and infrastructure on cloud platforms.",
+    "skills": [
+      "linux",
+      "networking",
+      "cloud computing",
+      "docker",
+      "scripting",
+      "troubleshooting"
+    ],
+    "interests": [
+      "cloud technology",
+      "automation",
+      "infrastructure",
+      "technology"
+    ],
+    "learning": [
+      "Linux Administration",
+      "Cloud Fundamentals",
+      "Containers"
+    ]
+  },
+  {
+    "title": "Database Administrator",
+    "description": "Maintain databases, manage access, and improve reliability and performance.",
+    "skills": [
+      "sql",
+      "databases",
+      "backup and recovery",
+      "troubleshooting",
+      "security",
+      "data modeling"
+    ],
+    "interests": [
+      "data",
+      "reliability",
+      "technology",
+      "systems"
+    ],
+    "learning": [
+      "SQL",
+      "Database Design",
+      "Database Administration"
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "Build accessible and responsive user interfaces for websites and applications.",
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "ui development",
+      "debugging",
+      "accessibility"
+    ],
+    "interests": [
+      "web development",
+      "design",
+      "technology",
+      "user experience"
+    ],
+    "learning": [
+      "HTML and CSS",
+      "JavaScript",
+      "Responsive Web Design"
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "description": "Build server-side application logic, APIs, and data processing services.",
+    "skills": [
+      "python",
+      "java",
+      "apis",
+      "databases",
+      "sql",
+      "debugging",
+      "programming"
+    ],
+    "interests": [
+      "software",
+      "systems",
+      "technology",
+      "backend development"
+    ],
+    "learning": [
+      "REST APIs",
+      "Database Design",
+      "Backend Architecture"
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Use statistics, programming, and machine learning to investigate questions and make predictions.",
+    "skills": [
+      "python",
+      "statistics",
+      "machine learning",
+      "data visualization",
+      "sql",
+      "experimentation"
+    ],
+    "interests": [
+      "data",
+      "research",
+      "science",
+      "prediction"
+    ],
+    "learning": [
+      "Statistics",
+      "Machine Learning",
+      "Experimental Design"
+    ]
+  },
+  {
+    "title": "Financial Analyst",
+    "description": "Analyze financial statements, budgets, and market information to support decisions.",
+    "skills": [
+      "excel",
+      "financial modeling",
+      "accounting",
+      "analysis",
+      "communication",
+      "forecasting"
+    ],
+    "interests": [
+      "finance",
+      "business",
+      "economics",
+      "investing"
+    ],
+    "learning": [
+      "Financial Statements",
+      "Excel Modeling",
+      "Corporate Finance"
+    ]
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "description": "Plan and evaluate digital campaigns across search, social media, and other online channels.",
+    "skills": [
+      "content creation",
+      "communication",
+      "analytics",
+      "seo",
+      "writing",
+      "campaign planning"
+    ],
+    "interests": [
+      "marketing",
+      "social media",
+      "business",
+      "creativity"
+    ],
+    "learning": [
+      "Digital Marketing",
+      "SEO Fundamentals",
+      "Campaign Analytics"
+    ]
+  },
+  {
+    "title": "Human Resources Specialist",
+    "description": "Support recruitment, onboarding, employee communication, and workplace processes.",
+    "skills": [
+      "communication",
+      "organization",
+      "interviewing",
+      "documentation",
+      "conflict resolution"
+    ],
+    "interests": [
+      "people",
+      "education",
+      "workplace culture",
+      "recruitment"
+    ],
+    "learning": [
+      "Recruitment Fundamentals",
+      "HR Operations",
+      "Employment Practices"
+    ]
+  },
+  {
+    "title": "Project Coordinator",
+    "description": "Coordinate tasks, timelines, communication, and progress across project teams.",
+    "skills": [
+      "organization",
+      "communication",
+      "planning",
+      "documentation",
+      "problem solving",
+      "time management"
+    ],
+    "interests": [
+      "project management",
+      "teamwork",
+      "operations",
+      "leadership"
+    ],
+    "learning": [
+      "Project Planning",
+      "Agile Fundamentals",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "Content Writer",
+    "description": "Research and create articles, web content, scripts, and other written material.",
+    "skills": [
+      "writing",
+      "research",
+      "editing",
+      "communication",
+      "storytelling"
+    ],
+    "interests": [
+      "literature",
+      "media",
+      "publishing",
+      "creativity"
+    ],
+    "learning": [
+      "Content Writing",
+      "Editing",
+      "Writing for the Web"
+    ]
+  },
+  {
+    "title": "Journalist",
+    "description": "Research events, verify information, interview sources, and produce news stories.",
+    "skills": [
+      "writing",
+      "research",
+      "interviewing",
+      "fact checking",
+      "communication",
+      "editing"
+    ],
+    "interests": [
+      "current affairs",
+      "media",
+      "society",
+      "investigation"
+    ],
+    "learning": [
+      "Reporting",
+      "Media Ethics",
+      "Fact Checking"
+    ]
+  },
+  {
+    "title": "Graphic Designer",
+    "description": "Create visual communication materials for digital and print media.",
+    "skills": [
+      "graphic design",
+      "typography",
+      "color theory",
+      "visual communication",
+      "creativity"
+    ],
+    "interests": [
+      "design",
+      "art",
+      "branding",
+      "visual storytelling"
+    ],
+    "learning": [
+      "Design Principles",
+      "Typography",
+      "Visual Composition"
+    ]
+  },
+  {
+    "title": "Photographer",
+    "description": "Create photographs for portraits, events, products, journalism, or artistic projects.",
+    "skills": [
+      "photography",
+      "composition",
+      "lighting",
+      "photo editing",
+      "visual storytelling"
+    ],
+    "interests": [
+      "visual arts",
+      "creativity",
+      "travel",
+      "storytelling"
+    ],
+    "learning": [
+      "Photography Fundamentals",
+      "Lighting",
+      "Photo Editing"
+    ]
+  },
+  {
+    "title": "Video Editor",
+    "description": "Assemble and refine video footage, audio, transitions, and visual effects.",
+    "skills": [
+      "video editing",
+      "storytelling",
+      "audio editing",
+      "visual communication",
+      "attention to detail"
+    ],
+    "interests": [
+      "film",
+      "media",
+      "content creation",
+      "creativity"
+    ],
+    "learning": [
+      "Video Editing Fundamentals",
+      "Audio Basics",
+      "Visual Storytelling"
+    ]
+  },
+  {
+    "title": "Teacher",
+    "description": "Plan lessons, explain concepts, assess learning, and support student development.",
+    "skills": [
+      "teaching",
+      "communication",
+      "lesson planning",
+      "subject knowledge",
+      "classroom management"
+    ],
+    "interests": [
+      "education",
+      "learning",
+      "mentoring",
+      "community"
+    ],
+    "learning": [
+      "Teaching Methods",
+      "Lesson Design",
+      "Assessment Techniques"
+    ]
+  },
+  {
+    "title": "Environmental Scientist",
+    "description": "Study environmental systems, collect evidence, and help assess environmental problems.",
+    "skills": [
+      "environmental science",
+      "research",
+      "data analysis",
+      "statistics",
+      "fieldwork",
+      "report writing"
+    ],
+    "interests": [
+      "environment",
+      "sustainability",
+      "science",
+      "conservation"
+    ],
+    "learning": [
+      "Environmental Science",
+      "Research Methods",
+      "Environmental Assessment"
+    ]
+  },
+  {
+    "title": "Horticulturist",
+    "description": "Cultivate and study plants for gardens, nurseries, landscaping, and crop production.",
+    "skills": [
+      "gardening",
+      "plant care",
+      "botany",
+      "soil science",
+      "observation",
+      "plant propagation"
+    ],
+    "interests": [
+      "plants",
+      "gardening",
+      "nature",
+      "sustainability"
+    ],
+    "learning": [
+      "Plant Science",
+      "Soil Management",
+      "Horticulture Fundamentals"
+    ]
+  },
+  {
+    "title": "Chef",
+    "description": "Prepare food, develop recipes, manage kitchen workflows, and maintain food safety.",
+    "skills": [
+      "cooking",
+      "food preparation",
+      "menu planning",
+      "food safety",
+      "time management",
+      "creativity"
+    ],
+    "interests": [
+      "food",
+      "culinary arts",
+      "hospitality",
+      "experimentation"
+    ],
+    "learning": [
+      "Cooking Techniques",
+      "Food Safety",
+      "Menu Development"
+    ]
+  },
+  {
+    "title": "Fitness Trainer",
+    "description": "Help clients pursue fitness goals through exercise instruction and safe training plans.",
+    "skills": [
+      "fitness",
+      "exercise instruction",
+      "communication",
+      "motivation",
+      "planning",
+      "anatomy"
+    ],
+    "interests": [
+      "fitness",
+      "sports",
+      "wellness",
+      "coaching"
+    ],
+    "learning": [
+      "Exercise Fundamentals",
+      "Training Principles",
+      "Coaching Skills"
+    ]
+  },
+  {
+    "title": "Predictive Analytics Scientist",
+    "description": "Use statistical modelling, machine learning, and historical data to predict future outcomes and support decisions.",
+    "skills": [
+      "prediction",
+      "predictive analytics",
+      "statistics",
+      "machine learning",
+      "python",
+      "data analysis",
+      "model evaluation",
+      "forecasting"
+    ],
+    "interests": [
+      "research",
+      "future trends",
+      "quantitative analysis",
+      "decision science",
+      "experimentation"
+    ],
+    "learning": [
+      "Probability and Statistics",
+      "Regression and Time Series",
+      "Machine Learning",
+      "Model Validation"
+    ]
+  },
+  {
+    "title": "Machine Learning Research Scientist",
+    "description": "Conduct research on machine learning methods, design experiments, evaluate models, and publish findings.",
+    "skills": [
+      "machine learning",
+      "research",
+      "python",
+      "statistics",
+      "linear algebra",
+      "experimentation",
+      "model evaluation",
+      "scientific writing"
+    ],
+    "interests": [
+      "artificial intelligence",
+      "research",
+      "prediction",
+      "mathematics",
+      "academia"
+    ],
+    "learning": [
+      "Advanced Machine Learning",
+      "Probability and Statistics",
+      "Research Methods",
+      "Scientific Writing"
+    ]
+  },
+  {
+    "title": "AI Researcher",
+    "description": "Investigate new artificial intelligence approaches, run experiments, and develop methods for reasoning, prediction, perception, or language tasks.",
+    "skills": [
+      "artificial intelligence",
+      "research",
+      "machine learning",
+      "programming",
+      "mathematics",
+      "experimentation",
+      "scientific writing"
+    ],
+    "interests": [
+      "research",
+      "prediction",
+      "innovation",
+      "academia",
+      "intelligent systems"
+    ],
+    "learning": [
+      "AI Fundamentals",
+      "Research Methodology",
+      "Deep Learning",
+      "Paper Reproduction"
+    ]
+  },
+  {
+    "title": "Statistician",
+    "description": "Design studies, analyze uncertainty, build statistical models, and interpret data to draw defensible conclusions.",
+    "skills": [
+      "statistics",
+      "probability",
+      "data analysis",
+      "hypothesis testing",
+      "regression",
+      "r",
+      "python",
+      "research"
+    ],
+    "interests": [
+      "mathematics",
+      "evidence",
+      "research",
+      "experimentation",
+      "prediction"
+    ],
+    "learning": [
+      "Probability Theory",
+      "Statistical Inference",
+      "Regression Analysis",
+      "Experimental Design"
+    ]
+  },
+  {
+    "title": "Operations Research Analyst",
+    "description": "Use optimization, mathematical modelling, simulation, and quantitative methods to improve complex decisions and systems.",
+    "skills": [
+      "optimization",
+      "mathematics",
+      "statistics",
+      "simulation",
+      "programming",
+      "operations research",
+      "prediction"
+    ],
+    "interests": [
+      "decision science",
+      "logistics",
+      "planning",
+      "research",
+      "problem solving"
+    ],
+    "learning": [
+      "Linear Programming",
+      "Optimization",
+      "Simulation Modelling",
+      "Python for Operations Research"
+    ]
+  },
+  {
+    "title": "Forecasting Analyst",
+    "description": "Forecast demand, sales, economic indicators, or operational metrics using time-series methods and business data.",
+    "skills": [
+      "forecasting",
+      "time series",
+      "statistics",
+      "excel",
+      "python",
+      "data analysis",
+      "prediction"
+    ],
+    "interests": [
+      "future trends",
+      "planning",
+      "business",
+      "quantitative analysis"
+    ],
+    "learning": [
+      "Time-Series Analysis",
+      "Forecast Accuracy",
+      "Python",
+      "Business Analytics"
+    ]
+  },
+  {
+    "title": "Quantitative Researcher",
+    "description": "Develop and test mathematical and statistical models to explain patterns and support data-driven decisions, often in finance or research.",
+    "skills": [
+      "mathematics",
+      "statistics",
+      "python",
+      "probability",
+      "modelling",
+      "research",
+      "data analysis"
+    ],
+    "interests": [
+      "quantitative research",
+      "prediction",
+      "finance",
+      "mathematical modelling"
+    ],
+    "learning": [
+      "Probability",
+      "Statistical Modelling",
+      "Python",
+      "Research Design"
+    ]
+  },
+  {
+    "title": "Econometrician",
+    "description": "Apply statistical methods to economic data to estimate relationships, test hypotheses, and forecast economic outcomes.",
+    "skills": [
+      "econometrics",
+      "statistics",
+      "economics",
+      "regression",
+      "r",
+      "python",
+      "forecasting"
+    ],
+    "interests": [
+      "economics",
+      "research",
+      "policy",
+      "prediction",
+      "quantitative analysis"
+    ],
+    "learning": [
+      "Econometrics",
+      "Regression Analysis",
+      "Causal Inference",
+      "Time-Series Methods"
+    ]
+  },
+  {
+    "title": "Actuarial Analyst",
+    "description": "Analyze risk and uncertainty using probability, statistics, and financial models for insurance, pensions, and related fields.",
+    "skills": [
+      "probability",
+      "statistics",
+      "risk analysis",
+      "mathematics",
+      "excel",
+      "modelling",
+      "forecasting"
+    ],
+    "interests": [
+      "finance",
+      "risk",
+      "prediction",
+      "mathematics",
+      "insurance"
+    ],
+    "learning": [
+      "Probability Models",
+      "Financial Mathematics",
+      "Risk Modelling",
+      "Actuarial Exam Preparation"
+    ]
+  },
+  {
+    "title": "Research Data Analyst",
+    "description": "Prepare datasets, analyze research questions, produce visualizations, and support evidence-based findings in academic or industry teams.",
+    "skills": [
+      "data analysis",
+      "statistics",
+      "python",
+      "r",
+      "sql",
+      "visualization",
+      "research methods"
+    ],
+    "interests": [
+      "research",
+      "data",
+      "academia",
+      "experimentation",
+      "scientific discovery"
+    ],
+    "learning": [
+      "Research Methods",
+      "Statistics",
+      "Data Cleaning",
+      "Reproducible Analysis"
+    ]
+  },
+  {
+    "title": "University Researcher / Academic",
+    "description": "Conduct specialized research, publish scholarly work, collaborate with research groups, and potentially teach at a university.",
+    "skills": [
+      "research",
+      "critical thinking",
+      "scientific writing",
+      "data analysis",
+      "subject expertise",
+      "communication"
+    ],
+    "interests": [
+      "academia",
+      "research",
+      "teaching",
+      "knowledge creation",
+      "publication"
+    ],
+    "learning": [
+      "Research Methodology",
+      "Academic Writing",
+      "Research Ethics",
+      "Grant Writing"
+    ]
+  },
+  {
+    "title": "Computational Scientist",
+    "description": "Use programming, numerical methods, and computational models to investigate scientific questions and simulate complex systems.",
+    "skills": [
+      "programming",
+      "python",
+      "mathematics",
+      "simulation",
+      "statistics",
+      "scientific computing",
+      "research"
+    ],
+    "interests": [
+      "science",
+      "research",
+      "modelling",
+      "prediction",
+      "high-performance computing"
+    ],
+    "learning": [
+      "Numerical Methods",
+      "Scientific Python",
+      "Simulation",
+      "Domain-Specific Modelling"
+    ]
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "description": "Transform organizational data into reports, dashboards, and actionable insights to support business decisions.",
+    "skills": [
+      "sql",
+      "data analysis",
+      "dashboards",
+      "power bi",
+      "tableau",
+      "communication",
+      "statistics"
+    ],
+    "interests": [
+      "business",
+      "analytics",
+      "decision making",
+      "reporting",
+      "problem solving"
+    ],
+    "learning": [
+      "SQL",
+      "Data Visualization",
+      "Power BI or Tableau",
+      "Business Metrics"
+    ]
+  },
+  {
+    "title": "Bioinformatics Scientist",
+    "description": "Analyze biological and biomedical data with computational, statistical, and machine-learning methods to support life-science research.",
+    "skills": [
+      "python",
+      "statistics",
+      "data analysis",
+      "biology",
+      "genomics",
+      "machine learning",
+      "research"
+    ],
+    "interests": [
+      "biology",
+      "healthcare",
+      "research",
+      "computational science",
+      "prediction"
+    ],
+    "learning": [
+      "Biology Fundamentals",
+      "Python",
+      "Statistics",
+      "Bioinformatics Tools"
+    ]
+  },
+  {
+    "title": "Climate Data Scientist",
+    "description": "Analyze climate and environmental datasets, develop predictive models, and communicate evidence about environmental patterns.",
+    "skills": [
+      "python",
+      "statistics",
+      "data analysis",
+      "time series",
+      "modelling",
+      "geospatial analysis",
+      "research"
+    ],
+    "interests": [
+      "climate",
+      "environment",
+      "research",
+      "prediction",
+      "sustainability"
+    ],
+    "learning": [
+      "Climate Science Basics",
+      "Time-Series Analysis",
+      "Geospatial Data",
+      "Scientific Python"
+    ]
+  },
+  {
+    "title": "PhD Research Candidate",
+    "description": "Pursue original research in a specialized field, formulate research questions, evaluate evidence, and contribute new knowledge under academic supervision.",
+    "skills": [
+      "research",
+      "critical thinking",
+      "statistics",
+      "scientific writing",
+      "experimentation",
+      "data analysis"
+    ],
+    "interests": [
+      "doctoral research",
+      "academia",
+      "prediction",
+      "theory",
+      "scientific discovery"
+    ],
+    "learning": [
+      "Research Design",
+      "Literature Review",
+      "Academic Writing",
+      "Research Ethics"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Build, evaluate, and maintain machine-learning systems that turn data and trained models into usable software.",
+    "skills": [
+      "python",
+      "machine learning",
+      "software engineering",
+      "data pipelines",
+      "model evaluation",
+      "sql",
+      "deployment"
+    ],
+    "interests": [
+      "artificial intelligence",
+      "prediction",
+      "building systems",
+      "automation"
+    ],
+    "learning": [
+      "Machine Learning",
+      "Software Engineering",
+      "Model Deployment",
+      "Data Pipelines"
+    ]
+  },
+  {
+    "title": "Market Research Analyst",
+    "description": "Study customers, competitors, and market trends using surveys, statistical analysis, and qualitative research.",
+    "skills": [
+      "research",
+      "data analysis",
+      "statistics",
+      "survey design",
+      "communication",
+      "reporting"
+    ],
+    "interests": [
+      "business",
+      "consumer behaviour",
+      "research",
+      "market trends",
+      "strategy"
+    ],
+    "learning": [
+      "Research Methods",
+      "Survey Design",
+      "Statistics",
+      "Data Storytelling"
+    ]
+  },
+  {
+    "title": "Risk Analyst",
+    "description": "Quantify and communicate financial, operational, or strategic risks using data, scenarios, and statistical models.",
+    "skills": [
+      "risk analysis",
+      "statistics",
+      "data analysis",
+      "modelling",
+      "excel",
+      "forecasting"
+    ],
+    "interests": [
+      "risk",
+      "finance",
+      "prediction",
+      "decision support",
+      "problem solving"
+    ],
+    "learning": [
+      "Risk Management",
+      "Statistics",
+      "Scenario Analysis",
+      "Financial Fundamentals"
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "source": "ESCO",
+  "version": "v1.2.1",
+  "language": "en",
+  "imported_at_utc": "2026-10-27T14:36:01.687809+00:00",
+  "input_files": {
+    "occupation_columns": [
+      "conceptType",
+      "conceptUri",
+      "iscoGroup",
+      "preferredLabel",
+      "altLabels",
+      "hiddenLabels",
+      "status",
+      "modifiedDate",
+      "regulatedProfessionNote",
+      "scopeNote",
+      "definition",
+      "inScheme",
+      "description",
+      "code",
+      "naceCode"
+    ],
+    "skill_columns": [
+      "conceptType",
+      "conceptUri",
+      "skillType",
+      "reuseLevel",
+      "preferredLabel",
+      "altLabels",
+      "hiddenLabels",
+      "status",
+      "modifiedDate",
+      "scopeNote",
+      "definition",
+      "inScheme",
+      "description"
+    ],
+    "relationship_columns": [
+      "occupationUri",
+      "occupationLabel",
+      "relationType",
+      "skillType",
+      "skillUri",
+      "skillLabel"
+    ]
+  },
+  "raw_counts": {
+    "occupation_rows": 3043,
+    "skill_rows": 13960,
+    "relationship_rows": 126051
+  },
+  "cleaning": {
+    "duplicate_occupation_uri_rows_removed": 4,
+    "duplicate_skill_uri_rows_removed": 21,
+    "relationship_rows_with_empty_ids": 0,
+    "duplicate_relationship_rows_removed": 0,
+    "unresolved_occupation_relationship_rows": 0,
+    "unresolved_skill_relationship_rows": 0,
+    "occupations_without_linked_skills": 0
+  },
+  "final_counts": {
+    "valid_relationship_rows": 126051,
+    "essential_relationship_rows": 67600,
+    "optional_relationship_rows": 58451,
+    "unique_occupations": 3039,
+    "unique_skills_linked": 13475,
+    "occupation_catalogue_records": 3039
+  },
+  "files_used": {
+    "occupations": "occupations_en.csv",
+    "skills": "skills_en.csv",
+    "relationships": "occupationSkillRelations_en.csv"
+  }
+}
